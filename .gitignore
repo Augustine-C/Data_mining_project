@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+
+# jupyter notebook
+.ipynb_checkpoints/*
+
+# data
+
+*.zip
+*.csv
