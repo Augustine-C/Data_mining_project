@@ -8,3 +8,6 @@
 
 *.zip
 *.csv
+*.pkl
+
+work_log.md
